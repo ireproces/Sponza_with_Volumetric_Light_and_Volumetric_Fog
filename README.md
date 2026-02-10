@@ -1,5 +1,5 @@
 # Unity Volumetric Lighting & Fog Demo
-Project submitted for the Computer Graphics exam
+Exam project submitted for the **Computer Graphics course**, academic year **2024-2025**.
 
 ## Overview
 
